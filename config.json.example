@@ -1,0 +1,18 @@
+{
+"bots": [
+	{ "coin":"flux", "token":"[bot token]", "hashval":"S" },
+	{ "coin":"kas", "token":"[bot token]", "hashval":"H" },
+	{ "coin":"etc", "token":"[bot token]", "hashval":"H" },
+	{ "coin":"ccx", "token":"[bot token]", "hashval":"H" },
+	{ "coin":"xmr", "token":"[bot token]", "hashval":"H" },
+	{ "coin":"cfx", "token":"[bot token]", "hashval":"H" },
+	{ "coin":"erg", "token":"[bot token]", "hashval":"H" },
+	{ "coin":"alph", "token":"[bot token]","hashval":"H" },
+	{ "coin":"neox", "token":"[bot token]", "hashval":"H" },
+	{ "coin":"aion", "token":"[bot token]","hashval":"H" },
+	{ "coin":"mewc", "token":"[bot token]" , "hashval":"H" }
+	],
+
+"webhookURL": "[discord webhook URL for bot errors/announcements]"
+
+}
